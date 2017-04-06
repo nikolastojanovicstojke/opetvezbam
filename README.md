@@ -1,0 +1,2 @@
+# opetvezbam
+vezbanje
